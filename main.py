@@ -60,7 +60,6 @@ for i in range(folderNum):
                     print(e)
                     driver.back()
                     sleep(3)
-
-            print('folder back!')
             driver.back()
+print('完成了')
 driver.__exit__()
