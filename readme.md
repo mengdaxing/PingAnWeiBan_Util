@@ -11,3 +11,6 @@ pip install selenium
 
 # 快速启动
 python main.py
+
+# 法律声明
+- 程序仅供学习交流，严禁用于非法用途，因程序产生的一切问题与源码作者无关
