@@ -2,7 +2,6 @@
 
 
 from time import sleep
-from config import *
 
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
@@ -13,6 +12,8 @@ from selenium.common.exceptions import UnexpectedAlertPresentException
 locator = (By.CLASS_NAME, 'task-block')
 
 driver = webdriver.Chrome(executable_path="chromedriver")
+
+HOST='https://weiban.mycourse.cn/#/'
 
 # login
 driver.get(HOST)
