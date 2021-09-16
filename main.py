@@ -113,7 +113,4 @@ with open("db.json", 'r') as f:
         except Exception as e:
             print(e)
 print('完成了')
-driver.execute_script(
-    'alert("完成了");'
-)
 # driver.__exit__()
