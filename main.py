@@ -104,6 +104,7 @@ with open("db.json", 'r', encoding='utf8') as f:
                 driver.execute_script(
                     'alert("题库没有这题，您只能自己动手了。自动化到此结束。");'
                 )
+                break
             
             for i in range(len(theQ['optionList'])):
                 if theQ['optionList'][i]['isCorrect'] == 1:
