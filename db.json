@@ -10023,6 +10023,1654 @@
                 }
             ],
             "attachmentList": []
+        },
+        {
+            "id": "2b966349-0db5-4b48-acb2-f339a2177e00",
+            "title": "教育部明确规定：严禁任何人、任何组织在校园内推介非法集资活动。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "47cab682-83f3-4d0e-9903-05b9c6b81bed",
+                    "questionId": "2b966349-0db5-4b48-acb2-f339a2177e00",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "cfa1a4a6-2605-46ce-8f41-76d6af1f85fc",
+                    "questionId": "2b966349-0db5-4b48-acb2-f339a2177e00",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "c73a974f-b323-42f8-b90f-fc461f3637b0",
+            "title": "在飞机上，手机应该：（）",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "6cabbfc6-8087-44dc-b006-fdd129aaa988",
+                    "questionId": "c73a974f-b323-42f8-b90f-fc461f3637b0",
+                    "content": "根据多数航空公司要求，需要调为飞行模式",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "e497129a-97be-4242-83ae-71f89cde3492",
+                    "questionId": "c73a974f-b323-42f8-b90f-fc461f3637b0",
+                    "content": "可以全程正常使用",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "3d50e3f0-ea2a-442f-a83d-64dad8a14e60",
+            "title": "除向本人同行账户转账外，个人通过ATM转账的，发卡行在受理（）小时后办理资金转账。期间，个人可以向发卡行申请撤销转账。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "7ff9befa-7683-4b65-a59c-5d11a1c1346f",
+                    "questionId": "3d50e3f0-ea2a-442f-a83d-64dad8a14e60",
+                    "content": "12",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "11d80879-9a65-4d96-a6bb-9cb1b564bade",
+                    "questionId": "3d50e3f0-ea2a-442f-a83d-64dad8a14e60",
+                    "content": "24",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "81d687cb-f81c-4dfe-9772-da4424a20386",
+                    "questionId": "3d50e3f0-ea2a-442f-a83d-64dad8a14e60",
+                    "content": "18",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "0a351865-531f-4946-ab48-585e5a493628",
+            "title": "支教途中发现老师在向学生收费时，应该？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "c68d8783-a12e-4138-bfe0-3958fbb9b239",
+                    "questionId": "0a351865-531f-4946-ab48-585e5a493628",
+                    "content": "骗子公司无疑了，及时报警",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "890dbea0-ef26-4637-90cf-639ab6835b5d",
+                    "questionId": "0a351865-531f-4946-ab48-585e5a493628",
+                    "content": "不明白、不过问",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "988acc2b-57d7-468c-a694-5570a246ab3d",
+            "title": "听到任何“低风险、高回报”的投资宣传时，你应该？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "fa68243a-3c26-4b28-9d75-6c8a7076cdb6",
+                    "questionId": "988acc2b-57d7-468c-a694-5570a246ab3d",
+                    "content": "投点试试",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "c0aa4749-63ee-40cb-8184-99df16a5c605",
+                    "questionId": "988acc2b-57d7-468c-a694-5570a246ab3d",
+                    "content": "避而远之",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "633d2849-d1e0-49df-bf83-fa2d3823bb4c",
+            "title": "通过网银或手机银行选择“普通到账”或“次日到账”，在资金汇出前，（）联系发卡银行申请撤销转账。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "977f5c06-ad4f-4a48-b7b3-f8ae2ca2ba5a",
+                    "questionId": "633d2849-d1e0-49df-bf83-fa2d3823bb4c",
+                    "content": "可以",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "febcd891-299f-4e6a-9f91-8b845200af80",
+                    "questionId": "633d2849-d1e0-49df-bf83-fa2d3823bb4c",
+                    "content": "不可以",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "93fac98e-dd86-47a7-8f79-30d6c6d94ff0",
+            "title": "“传销”也被称为？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "b26a8b3a-fa1f-4bd9-99ed-3e1cff0a912e",
+                    "questionId": "93fac98e-dd86-47a7-8f79-30d6c6d94ff0",
+                    "content": "空手套白狼",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "846087ac-4d25-451f-839f-f5087d2b4557",
+                    "questionId": "93fac98e-dd86-47a7-8f79-30d6c6d94ff0",
+                    "content": "免费的午餐",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "ca0f3f3f-a77b-499c-ba37-23d22e7932e5",
+            "title": "不小心擦伤了，新伤口上，应使用：",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "cc9d9a75-043f-46a2-b289-23c3b47ad473",
+                    "questionId": "ca0f3f3f-a77b-499c-ba37-23d22e7932e5",
+                    "content": "碘伏。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "8164c2f6-4a09-4582-bde3-9e7621991e22",
+                    "questionId": "ca0f3f3f-a77b-499c-ba37-23d22e7932e5",
+                    "content": "紫药水。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "3123b06d-c48e-42df-b01c-3f6cd801c7f8",
+            "title": "不小心擦伤了，应该：",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "df4ce6fc-3c86-4a43-b71d-e45d9fd3d88d",
+                    "questionId": "3123b06d-c48e-42df-b01c-3f6cd801c7f8",
+                    "content": "马上找水清洗伤口并进行处理。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "ff4407e4-9a5c-4e7e-82e7-cd1607bffb50",
+                    "questionId": "3123b06d-c48e-42df-b01c-3f6cd801c7f8",
+                    "content": "不用管它，一点儿小伤。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "268152de-abe5-4702-8203-068162e3abca",
+            "title": "求助心理型诈骗就是利用用户的求助心理来进行欺诈。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "c25c0f8a-0329-4f3c-9ae8-ba1325fcbfa6",
+                    "questionId": "268152de-abe5-4702-8203-068162e3abca",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "da8b594b-165b-4b2e-9819-4563012d8144",
+                    "questionId": "268152de-abe5-4702-8203-068162e3abca",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "f5c2d747-fd45-4dcf-a907-1839f7857d9e",
+            "title": "以下哪种情况属于I类户。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "c57c751c-6f7c-4a87-8674-5137318569e5",
+                    "questionId": "f5c2d747-fd45-4dcf-a907-1839f7857d9e",
+                    "content": "在银行柜台开立的借记卡、活期存折等账户",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "6339eb59-4432-47fa-bd9f-79273c02f441",
+                    "questionId": "f5c2d747-fd45-4dcf-a907-1839f7857d9e",
+                    "content": "直销银行、手机银行等电子渠道开立的账户",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "9ebefc7c-f314-4441-bf95-6311945ab10c",
+                    "questionId": "f5c2d747-fd45-4dcf-a907-1839f7857d9e",
+                    "content": "信用卡",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "c957807c-c8d6-422d-8cf3-66f87865c82d",
+            "title": "关于高铁，下面说法正确的是：（ ）",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "a262b8ec-ea40-4c5b-a5b2-e63266e61036",
+                    "questionId": "c957807c-c8d6-422d-8cf3-66f87865c82d",
+                    "content": "车厢连接处可以抽烟。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "b7b3e5f6-a2df-4af7-87af-1f54cf8d727b",
+                    "questionId": "c957807c-c8d6-422d-8cf3-66f87865c82d",
+                    "content": "车厢任何地方均禁止吸烟。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "34586a73-0523-4bdf-bf4d-5edc6ed0e726",
+            "title": "许久未联系的朋友声称有个赚大钱的机会要邀请你加入，你应该？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "afea179c-081e-46f7-a382-639b47f826c3",
+                    "questionId": "34586a73-0523-4bdf-bf4d-5edc6ed0e726",
+                    "content": "提高警惕、不轻信",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "74ec8555-3520-4509-852e-d6bde8fbea28",
+                    "questionId": "34586a73-0523-4bdf-bf4d-5edc6ed0e726",
+                    "content": "有赚钱的机会不能错过",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "e3de3aaa-4db0-48cc-afbb-7c8248a60a74",
+            "title": "同情、交友心理型诈骗就是利用用户的同情、交友心理来进行欺诈。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "8751bc3c-6a67-4a7b-b266-b424331049c4",
+                    "questionId": "e3de3aaa-4db0-48cc-afbb-7c8248a60a74",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "7709399e-d9ec-4ddb-916f-61cd9c7908e9",
+                    "questionId": "e3de3aaa-4db0-48cc-afbb-7c8248a60a74",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "33132220-f7ba-4c98-b25b-1a7b426c4415",
+            "title": "“套现”是违法行为吗？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "7812c226-f4a6-4ed2-a7d6-b2ae7884fadc",
+                    "questionId": "33132220-f7ba-4c98-b25b-1a7b426c4415",
+                    "content": "是",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "d5639793-c961-4519-a040-8b73fd543d9d",
+                    "questionId": "33132220-f7ba-4c98-b25b-1a7b426c4415",
+                    "content": "不是",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "289b6c15-bee0-44a2-9e63-1b187e73d60e",
+            "title": "与艾滋病病毒感染者共用注射器会感染艾滋病吗？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "4db8fc7e-9e85-4a99-83a3-ca398281df73",
+                    "questionId": "289b6c15-bee0-44a2-9e63-1b187e73d60e",
+                    "content": "是。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "adc220ed-0792-4b35-8796-1a91aaf89ec4",
+                    "questionId": "289b6c15-bee0-44a2-9e63-1b187e73d60e",
+                    "content": "否。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "fc83d0bc-4adb-4182-9059-8b6cb6488199",
+                    "questionId": "289b6c15-bee0-44a2-9e63-1b187e73d60e",
+                    "content": "不知道。",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "cd67b1cc-62e3-4be4-b90a-ba4679597d1e",
+            "title": "有人昏厥了！接下来应该怎么办？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "67ea3b25-acea-4e35-a10b-654e6af7d89a",
+                    "questionId": "cd67b1cc-62e3-4be4-b90a-ba4679597d1e",
+                    "content": "扶起病人。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "3fe9059d-7552-4879-b467-e20bc6dad3d3",
+                    "questionId": "cd67b1cc-62e3-4be4-b90a-ba4679597d1e",
+                    "content": "观察面色。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "4f733f5e-d0e2-4958-878e-3dc9342ceacd",
+            "title": "小风在上大学期间，逃课、上网，致使很多的课程都不及格，小风的家长见小风在国内也学不出什么了，于是想要送小风出国学习，你觉得这样的做法是否合理呢？为什么？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "05176df2-22af-4627-94d2-054137604121",
+                    "questionId": "4f733f5e-d0e2-4958-878e-3dc9342ceacd",
+                    "content": "合理。因为换一个环境可能就会让他学到一些知识呢。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "9eb56a86-d7dc-4e8c-a4bb-3e901a81a726",
+                    "questionId": "4f733f5e-d0e2-4958-878e-3dc9342ceacd",
+                    "content": "不合理。小风不学习只想上网、逃课，说明是小风的自我管理能力很差，到了国外，那么多的诱惑，再加上没有人在身边督促，估计也不能学到什么。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "2188ef3a-a366-4192-90fd-aae30f514718",
+            "title": "给共享单车上私锁，并据为己有，涉嫌什么？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "be0edb71-b028-414f-91c5-c2441c91c852",
+                    "questionId": "2188ef3a-a366-4192-90fd-aae30f514718",
+                    "content": "盗窃者",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "f5408c21-e736-4c0c-8a94-6851ea08c0ec",
+                    "questionId": "2188ef3a-a366-4192-90fd-aae30f514718",
+                    "content": "抢夺罪",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "ddd4d089-ddb4-4536-b787-7d7ad058d194",
+            "title": "普通人不建议使用消火栓？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "a0f72c28-fa73-4c5f-b3bf-26186ae7b0c1",
+                    "questionId": "ddd4d089-ddb4-4536-b787-7d7ad058d194",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "e386a13a-15a5-49b4-9820-211c9e3345e1",
+                    "questionId": "ddd4d089-ddb4-4536-b787-7d7ad058d194",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "da53f4c9-9193-4202-981f-cf7f1692185b",
+            "title": "交通安全日是哪一天？（）",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "fe3251bc-2ffc-4c1c-982f-5e7016aea4cf",
+                    "questionId": "da53f4c9-9193-4202-981f-cf7f1692185b",
+                    "content": "2月12日。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "140e144e-eb91-4d11-8304-bb7cc08cbb47",
+                    "questionId": "da53f4c9-9193-4202-981f-cf7f1692185b",
+                    "content": "12月12日。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "24bfacc5-9cb3-48e4-95a1-52493ef97713",
+                    "questionId": "da53f4c9-9193-4202-981f-cf7f1692185b",
+                    "content": "12月2日。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "9023622d-c8ed-4139-b0d7-d31a84feec0c",
+                    "questionId": "da53f4c9-9193-4202-981f-cf7f1692185b",
+                    "content": "2月2日。",
+                    "sequence": 4,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "4f455c1a-5591-4095-9ffa-66ea19008bb8",
+            "title": "“套现”是一种违法犯罪的行为。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "2f122cf4-26f9-45ed-aa01-8eaabe3beaea",
+                    "questionId": "4f455c1a-5591-4095-9ffa-66ea19008bb8",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "cd8b7d75-b266-404d-acc1-6ff94bd24a6f",
+                    "questionId": "4f455c1a-5591-4095-9ffa-66ea19008bb8",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "72e7e46a-7c0b-454d-be93-8b468efa8902",
+            "title": "窗口期指的是：（）",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "4d89686f-cf8c-4d4b-b69a-7c58e58a69bc",
+                    "questionId": "72e7e46a-7c0b-454d-be93-8b468efa8902",
+                    "content": "感染艾滋病病毒后没有症状的一段时间。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "36b54956-4af7-47e5-afd8-7accb6fe01a4",
+                    "questionId": "72e7e46a-7c0b-454d-be93-8b468efa8902",
+                    "content": "感染艾滋病病毒后没什么传染性的一段时间。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "dd897058-e9ee-4cba-a20f-4eb589e68c14",
+                    "questionId": "72e7e46a-7c0b-454d-be93-8b468efa8902",
+                    "content": "感染艾滋病病毒后，传染性很强，但是又无法检测出已感染的一段时间。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "d317c841-dc9e-4707-8362-d8f8c0c6bfd8",
+            "title": "出去玩，选择哪种旅游团更有保障呢？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "fa3edd33-b485-40ba-a331-9204df6b4a27",
+                    "questionId": "d317c841-dc9e-4707-8362-d8f8c0c6bfd8",
+                    "content": "知名的正规旅行社办的团。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "84fb93fd-b754-4114-b752-7fecdd59c416",
+                    "questionId": "d317c841-dc9e-4707-8362-d8f8c0c6bfd8",
+                    "content": "不知名旅社的超低价团。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "95f2b360-d248-495f-82c8-c6e75cd0a50d",
+            "title": "软管卷盘适用于哪种火灾？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "fde7c5dd-4e79-4512-90f5-9a8516797219",
+                    "questionId": "95f2b360-d248-495f-82c8-c6e75cd0a50d",
+                    "content": "初起火灾",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "ee80fe34-ac08-45a9-ad49-bfd73929adb1",
+                    "questionId": "95f2b360-d248-495f-82c8-c6e75cd0a50d",
+                    "content": "中期火灾",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "8cbae7e8-c880-4cea-9df0-437f732c37c3",
+            "title": "多少人以上聚集打架属于聚众斗殴？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "1d39fda0-9447-4f36-a110-06e325b23524",
+                    "questionId": "8cbae7e8-c880-4cea-9df0-437f732c37c3",
+                    "content": "3",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "92a4ff94-8e72-4375-9089-73edc11c2699",
+                    "questionId": "8cbae7e8-c880-4cea-9df0-437f732c37c3",
+                    "content": "4",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "4a2c4541-8c27-4609-9e97-d739e1945fe6",
+                    "questionId": "8cbae7e8-c880-4cea-9df0-437f732c37c3",
+                    "content": "5",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "a2e4ad74-3fe2-4679-a1b6-b6548cac4f60",
+            "title": "微信朋友圈：“湖北女孩黄晓，8岁，被查出白血病，因为家境贫寒，父母打算放弃治疗，期待社会各界人员伸出援助之手，咨询电话：xxxxxx。发到你的朋友圈，将消息扩散，让更多的人帮助她。”小乐看到这个信息后立刻在自己的朋友圈扩散，并打电话咨询帮助事宜。可是电话却总是在通话中，直到看到欠费短信，才知道被骗。小乐自认倒霉。小乐的做法有哪些是错的？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "286fe772-1067-4e8e-a8be-c03c8361e946",
+                    "questionId": "a2e4ad74-3fe2-4679-a1b6-b6548cac4f60",
+                    "content": "没有进行核查就将信息发到了自己的朋友圈。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "20d921d8-e5a2-441c-95c1-4f34d437bb3a",
+                    "questionId": "a2e4ad74-3fe2-4679-a1b6-b6548cac4f60",
+                    "content": "没有进行核查就拨打了信息中提示的电话。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "444eeb94-cce4-4181-b193-5ba4723e6534",
+                    "questionId": "a2e4ad74-3fe2-4679-a1b6-b6548cac4f60",
+                    "content": "知道被骗后也没有采取报警或举报的措施。",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "befe78c0-6c47-4a3d-9d20-28c3d4567a79",
+                    "questionId": "a2e4ad74-3fe2-4679-a1b6-b6548cac4f60",
+                    "content": "以上三个选项皆是。",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "9e5d4dee-c29e-4985-8b9a-7367b760e38f",
+            "title": "踢球时一个同学被铲倒了，过去询问，同学说“有点疼”，站不起来，从外面看不出腿有什么变形：",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "270f2855-c8d3-4014-af0f-c459b03180ef",
+                    "questionId": "9e5d4dee-c29e-4985-8b9a-7367b760e38f",
+                    "content": "既然不是特别疼应该没什么关系，扶到旁边休息一下。",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "262117ea-925a-411b-9519-b08f41b3ec45",
+                    "questionId": "9e5d4dee-c29e-4985-8b9a-7367b760e38f",
+                    "content": "每个人疼痛承受能力不同，还是去医院检查一下。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "2cd38601-186f-4d66-8359-0b6abe17299f",
+            "title": "考察投资目标、投资对象是否真实，也是识别对方真假的一种重要方式。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "98fd695f-32ff-49ad-ae75-f15ea4b66430",
+                    "questionId": "2cd38601-186f-4d66-8359-0b6abe17299f",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "45a26fcb-a53e-441c-9c20-7c5715adb32b",
+                    "questionId": "2cd38601-186f-4d66-8359-0b6abe17299f",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "9b65ca14-6bb8-46f2-92fc-aaef923ba524",
+            "title": "典型的同情、交友心理型诈骗形式为？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "b121f19f-1dcb-4641-87d4-63a3f5262b92",
+                    "questionId": "9b65ca14-6bb8-46f2-92fc-aaef923ba524",
+                    "content": "冒充公检法诈骗",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "520e524b-45d5-45f6-a71f-961d5b45300c",
+                    "questionId": "9b65ca14-6bb8-46f2-92fc-aaef923ba524",
+                    "content": "卖茶叶诈骗",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "d5d1119e-b4a6-4a55-85f4-d4a9537b29b8",
+            "title": "传销在我国时是合法的吗？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "bfe153bd-dfd3-4e74-9fc7-3b87f881f6b1",
+                    "questionId": "d5d1119e-b4a6-4a55-85f4-d4a9537b29b8",
+                    "content": "是",
+                    "sequence": 1,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "fd363ade-7a84-49ff-a3f1-0dd7280fb665",
+                    "questionId": "d5d1119e-b4a6-4a55-85f4-d4a9537b29b8",
+                    "content": "不是",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "56390f2e-6e14-4108-8f77-2a38d98cced1",
+            "title": "在投资这件事上，最好还是咨询专业人士，该说法正确吗？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "2e83bd90-bfa9-4333-8c6e-dea776daa8e2",
+                    "questionId": "56390f2e-6e14-4108-8f77-2a38d98cced1",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "b297bbe9-c9b9-4d4e-82fa-0ff4a5879946",
+                    "questionId": "56390f2e-6e14-4108-8f77-2a38d98cced1",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "2be7603c-9812-4a4b-a01a-76c235844c0d",
+            "title": "如果有人声称可以帮你提升“借呗”的额度，你应该相信他吗？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "5d4f6b94-ba61-47e9-9ba3-c583cdd32435",
+                    "questionId": "2be7603c-9812-4a4b-a01a-76c235844c0d",
+                    "content": "不信",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "926a37b1-b51b-42e6-bc5b-cc08e5c27e43",
+                    "questionId": "2be7603c-9812-4a4b-a01a-76c235844c0d",
+                    "content": "相信",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "8520589d-dc87-4405-8424-e7e3eec7ffc2",
+            "title": "聚众斗殴致人死亡的，最高可能会被判刑？",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "c070446c-b3e0-415f-8329-4a0a5bd281de",
+                    "questionId": "8520589d-dc87-4405-8424-e7e3eec7ffc2",
+                    "content": "死刑",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "9a42edbc-3429-45e5-93c6-d9654ca5c872",
+                    "questionId": "8520589d-dc87-4405-8424-e7e3eec7ffc2",
+                    "content": "无期徒刑",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "be33826c-90be-4dc8-8955-c3e73bfcb659",
+            "title": "在审查经营主体是否合法时。不仅要查企业是否合法，也需要查查所谓的“投资项目”是否在企业注册的经营范围内。",
+            "type": 1,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "a782f4fb-78a3-4258-8a24-0c18e88d9226",
+                    "questionId": "be33826c-90be-4dc8-8955-c3e73bfcb659",
+                    "content": "正确",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "736d6667-c9b8-4c4a-867e-ae4539d36d7d",
+                    "questionId": "be33826c-90be-4dc8-8955-c3e73bfcb659",
+                    "content": "错误",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "fa089849-ecc9-4fb4-b9be-292e34768a72",
+            "title": "偷窃者的原因往往有哪些？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "d7990c2a-edab-47db-8a0b-5a4cd160db33",
+                    "questionId": "fa089849-ecc9-4fb4-b9be-292e34768a72",
+                    "content": "家庭经济困难",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "ef92540c-ad5f-465d-a011-c328ad303f8b",
+                    "questionId": "fa089849-ecc9-4fb4-b9be-292e34768a72",
+                    "content": "追求享乐债台高筑",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "857e8c57-21b3-4f93-b402-d869f87f8f82",
+                    "questionId": "fa089849-ecc9-4fb4-b9be-292e34768a72",
+                    "content": "贪图利己毫无功德",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "f1de87e3-9c18-4fcf-a270-8f11db4f52a6",
+                    "questionId": "fa089849-ecc9-4fb4-b9be-292e34768a72",
+                    "content": "报复泄愤追求刺激",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "76a6c3d4-5e9f-49a6-b156-9e9292d4ae5c",
+            "title": "社会安全意义重大，你都知道哪些？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "cf956f75-c45f-4a4b-8546-0c5da6dcab92",
+                    "questionId": "76a6c3d4-5e9f-49a6-b156-9e9292d4ae5c",
+                    "content": "社会安全是国家安全的重要内容",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "e2f2a457-cfbc-4f63-868a-f25d1604eebe",
+                    "questionId": "76a6c3d4-5e9f-49a6-b156-9e9292d4ae5c",
+                    "content": "社会安全是国家改革发展的重要保障",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "b015bfdf-a810-4b34-a6e0-455f0df61e94",
+                    "questionId": "76a6c3d4-5e9f-49a6-b156-9e9292d4ae5c",
+                    "content": "社会安全直接反映人民群众的幸福感和满意度",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "d04f8e86-90f1-4770-9900-e0a1dd9a8998",
+            "title": "如何预防同情、交友心理型诈骗。",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "81114600-3b97-4d7c-ad98-8297ae2e78c4",
+                    "questionId": "d04f8e86-90f1-4770-9900-e0a1dd9a8998",
+                    "content": "网络交友要谨慎",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "e59c71e4-6237-4775-90a2-fa543466f782",
+                    "questionId": "d04f8e86-90f1-4770-9900-e0a1dd9a8998",
+                    "content": "不轻信、不转帐",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "3866b5d1-2d82-4f71-9d8f-5df632fd118f",
+            "title": "如果避免被传销“洗脑”？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 2,
+            "optionList": [
+                {
+                    "id": "9c5827ab-75f4-4d92-872b-47a80ef056c1",
+                    "questionId": "3866b5d1-2d82-4f71-9d8f-5df632fd118f",
+                    "content": "坚守常识",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "1d614ea3-26cc-4d86-a742-cb5e9df6c3f6",
+                    "questionId": "3866b5d1-2d82-4f71-9d8f-5df632fd118f",
+                    "content": "学法守法",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "b3cbec6e-04a7-4d7f-ab32-9766464dbb2d",
+                    "questionId": "3866b5d1-2d82-4f71-9d8f-5df632fd118f",
+                    "content": "段正三观",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "933de84d-ae93-487b-a52d-aa3afa533082",
+                    "questionId": "3866b5d1-2d82-4f71-9d8f-5df632fd118f",
+                    "content": "切勿贪婪",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 2
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "b23cbd5b-9d3e-446a-862a-0455d82fd43b",
+            "title": "关于银行卡被盗刷，下面说法正确的是：",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "0c155b04-97f5-4343-bae3-825eb00c35db",
+                    "questionId": "b23cbd5b-9d3e-446a-862a-0455d82fd43b",
+                    "content": "信用卡被盗刷后要及时挂失。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "7c2f37ae-a279-429c-b07a-370499cf5c76",
+                    "questionId": "b23cbd5b-9d3e-446a-862a-0455d82fd43b",
+                    "content": "磁条卡比芯片卡更容易被复制。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "23721e71-0be9-45f1-b14b-df2175cfd7c1",
+                    "questionId": "b23cbd5b-9d3e-446a-862a-0455d82fd43b",
+                    "content": "被盗刷后，去ATM机操作自己的卡不用保留凭条，因为银行有记录。",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "10a8867b-fc4b-4481-8533-49aa647478a9",
+                    "questionId": "b23cbd5b-9d3e-446a-862a-0455d82fd43b",
+                    "content": "去银行报案要带上身份证。",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "f4d397f9-1a48-4065-813d-ddad2130eb03",
+            "title": "为什么会出现“恐艾”的心理呢？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 2,
+            "optionList": [
+                {
+                    "id": "a7f0e31a-2fb4-4293-b85b-3a2f2a63ea10",
+                    "questionId": "f4d397f9-1a48-4065-813d-ddad2130eb03",
+                    "content": "对艾滋病的传播途径不够了解。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "c9c2cc75-d479-46a0-884c-0974cbccb98e",
+                    "questionId": "f4d397f9-1a48-4065-813d-ddad2130eb03",
+                    "content": "对艾滋病的症状不够了解。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "d1ff169e-fc75-4e84-9a3f-7e445e2f38b4",
+                    "questionId": "f4d397f9-1a48-4065-813d-ddad2130eb03",
+                    "content": "对艾滋病现在的治疗方法不够了解。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "95484f4c-bb9a-4de2-9046-a7889a965379",
+            "title": "想要出国留学，需要具备哪些条件呢？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "2abcfa7d-9cbd-4243-843a-d9c9456e115c",
+                    "questionId": "95484f4c-bb9a-4de2-9046-a7889a965379",
+                    "content": "学习成绩优秀并且有很好的学习能力。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "a118d68e-c93a-4516-9bf7-43c9260611e4",
+                    "questionId": "95484f4c-bb9a-4de2-9046-a7889a965379",
+                    "content": "自我管理能力要强，同时还得有很好的心理素质。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "6f75d10b-fbcf-444b-b6ee-77d9915211e4",
+                    "questionId": "95484f4c-bb9a-4de2-9046-a7889a965379",
+                    "content": "家庭的经济实力要足够支付学生在国外的花销。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "d2de1d25-8b62-48ae-afff-fa0e1c77ec3c",
+                    "questionId": "95484f4c-bb9a-4de2-9046-a7889a965379",
+                    "content": "语言能力更要达到目标国家的要求。",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "b83cffcf-d53e-494d-bc93-4d962bf32804",
+            "title": "非法集资者一般的宣传的手段有？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "aeb9320c-8e17-4d27-8b17-05ec53f61411",
+                    "questionId": "b83cffcf-d53e-494d-bc93-4d962bf32804",
+                    "content": "发放传单",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "033ddadc-1afb-435d-bdd3-2a56300f6be0",
+                    "questionId": "b83cffcf-d53e-494d-bc93-4d962bf32804",
+                    "content": "现场讲解",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "804d3a70-42d4-4ca8-a607-2b1f8fa32066",
+                    "questionId": "b83cffcf-d53e-494d-bc93-4d962bf32804",
+                    "content": "朋友圈宣传",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "d5aa5c08-2f03-411a-ae0e-62f53acbad36",
+            "title": "以下物品哪些是飞机禁止随身携带及托运的？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "3e472d4c-7ac6-4371-8816-63a5b4680435",
+                    "questionId": "d5aa5c08-2f03-411a-ae0e-62f53acbad36",
+                    "content": "打火机",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "77516c8e-eacb-4661-a88e-bfa5dfa7aa00",
+                    "questionId": "d5aa5c08-2f03-411a-ae0e-62f53acbad36",
+                    "content": "榴莲",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "69c2d663-2505-4062-852a-de6565ae9dfe",
+                    "questionId": "d5aa5c08-2f03-411a-ae0e-62f53acbad36",
+                    "content": "超过160Wh的充电宝",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "de171064-5b3e-4e6f-8780-f2a6161c06ae",
+            "title": "对于经济困难的人来说，可能通过哪些合理的方式获取经济来源？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "8a24f1e9-1977-49ae-a159-8f41e03cba3c",
+                    "questionId": "de171064-5b3e-4e6f-8780-f2a6161c06ae",
+                    "content": "申请社会救助",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "ebf003c7-f176-40c1-99a0-3bd211bbc878",
+                    "questionId": "de171064-5b3e-4e6f-8780-f2a6161c06ae",
+                    "content": "勤工俭学",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "bb12dde0-2b9c-41df-8ec7-a1ddf084c203",
+                    "questionId": "de171064-5b3e-4e6f-8780-f2a6161c06ae",
+                    "content": "申请贫困补助",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "fc70c798-9a49-400e-8a5a-04e4525734c1",
+            "title": "避免自行车安全事故的关键点？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 2,
+            "optionList": [
+                {
+                    "id": "07827828-0d2a-495e-8d21-a63bc33ef05e",
+                    "questionId": "fc70c798-9a49-400e-8a5a-04e4525734c1",
+                    "content": "控速度。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "917dcd55-d3ad-4f69-a376-802896ee3710",
+                    "questionId": "fc70c798-9a49-400e-8a5a-04e4525734c1",
+                    "content": "不带重物。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "bfd6b2d7-c390-4e78-b927-eb105b57f237",
+                    "questionId": "fc70c798-9a49-400e-8a5a-04e4525734c1",
+                    "content": "远行戴头盔。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "654ac5b9-da54-4be8-b98b-1804865157f0",
+            "title": "下面关于艾滋病防治，说法正确的是：",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "3c775078-d320-430f-b1a5-3a2eab680664",
+                    "questionId": "654ac5b9-da54-4be8-b98b-1804865157f0",
+                    "content": "洁身自爱，遵守性道德，是预防经性接触感染艾滋病和性病的根本措施。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "0ca04d90-3ff7-4dae-95be-3d6d05c14f5e",
+                    "questionId": "654ac5b9-da54-4be8-b98b-1804865157f0",
+                    "content": "艾滋病自愿咨询检测是及早发现感染者和病人的重要预防措施。",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "224dfc8e-dab5-46dc-8e90-b6b7620e1f93",
+                    "questionId": "654ac5b9-da54-4be8-b98b-1804865157f0",
+                    "content": "关心、帮助、不歧视艾滋病病毒感染者和病人，鼓励他们参与艾滋病防治工作，是控制艾滋病传播的重要措施。",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "6750fc2d-c719-4b39-94fe-34155c223a28",
+                    "questionId": "654ac5b9-da54-4be8-b98b-1804865157f0",
+                    "content": "正确地使用质量合格的安全套，及早地治疗并治愈性病，可大大的减少感染和传播艾滋病的危险。",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "330b0367-8ffb-4504-bdd0-032175831d43",
+            "title": "在校园步行时应当怎么做呢？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "91e0b806-512d-4566-a144-eb92177466e9",
+                    "questionId": "330b0367-8ffb-4504-bdd0-032175831d43",
+                    "content": "走在人行道上。",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "c8fe4a23-f39a-4d47-b7ba-272595ed1403",
+                    "questionId": "330b0367-8ffb-4504-bdd0-032175831d43",
+                    "content": "人行道、马路都可以随便走。",
+                    "sequence": 2,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "7560273c-4dee-4122-9efc-54238e3db188",
+                    "questionId": "330b0367-8ffb-4504-bdd0-032175831d43",
+                    "content": "边玩手机边走路或者过马路。",
+                    "sequence": 3,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "ade03bf0-e86d-423d-9d4e-6c83ba87b800",
+                    "questionId": "330b0367-8ffb-4504-bdd0-032175831d43",
+                    "content": "戴着耳机走路。",
+                    "sequence": 4,
+                    "selected": 2,
+                    "isCorrect": 2
+                },
+                {
+                    "id": "c0c7231b-c5ab-4a79-b141-6e217b62180f",
+                    "questionId": "330b0367-8ffb-4504-bdd0-032175831d43",
+                    "content": "走路时不玩手机、不戴耳机。",
+                    "sequence": 5,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "5d11ec68-f311-48bf-9519-efc658c5b863",
+            "title": "打架斗殴的后果有哪些？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "d306e822-f6be-4e16-961c-ea844eca9ac6",
+                    "questionId": "5d11ec68-f311-48bf-9519-efc658c5b863",
+                    "content": "学籍不保、档案留污",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "9446dafa-3ca3-46c7-93c2-87875ab904ea",
+                    "questionId": "5d11ec68-f311-48bf-9519-efc658c5b863",
+                    "content": "造成身体伤害或死亡",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "675dba79-c251-4eef-9091-170e5e198982",
+                    "questionId": "5d11ec68-f311-48bf-9519-efc658c5b863",
+                    "content": "负担医药费、赔偿费",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "0e33b172-a865-4578-8409-d9078d602f1c",
+                    "questionId": "5d11ec68-f311-48bf-9519-efc658c5b863",
+                    "content": "刑拘或判刑",
+                    "sequence": 4,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
+        },
+        {
+            "id": "575a319c-f24f-43d5-95de-b92f9d915850",
+            "title": "可以从哪些方面判断公司是否合规？",
+            "type": 2,
+            "score": 2,
+            "sequence": 0,
+            "analysis": "",
+            "isRight": 1,
+            "optionList": [
+                {
+                    "id": "a5e4e993-243e-4db4-a8cf-a581e1cb66e1",
+                    "questionId": "575a319c-f24f-43d5-95de-b92f9d915850",
+                    "content": "审查经营主体是否合法",
+                    "sequence": 1,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "057776e7-5f9b-4876-a5c2-e49b0a21b733",
+                    "questionId": "575a319c-f24f-43d5-95de-b92f9d915850",
+                    "content": "看经营模式是否合法",
+                    "sequence": 2,
+                    "selected": 1,
+                    "isCorrect": 1
+                },
+                {
+                    "id": "db761256-9bd1-488e-b29c-513b9ddf0f97",
+                    "questionId": "575a319c-f24f-43d5-95de-b92f9d915850",
+                    "content": "经营项目是否符合常理",
+                    "sequence": 3,
+                    "selected": 1,
+                    "isCorrect": 1
+                }
+            ],
+            "attachmentList": []
         }
     ]
 }
