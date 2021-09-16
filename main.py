@@ -70,7 +70,7 @@ for i in range(folderNum):
 ###################
 # part2 考试
 ###################
-with open("db.json", 'r') as f:
+with open("db.json", 'r', encoding='utf8') as f:
     db = json.load(f)
 
     sleep(3)
