@@ -1,16 +1,11 @@
 # -*- coding: UTF-8 -*-
-
-
 from time import sleep
 
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import UnexpectedAlertPresentException
 import json
-
-locator = (By.CLASS_NAME, 'task-block')
 
 driver = webdriver.Chrome(executable_path="chromedriver")
 
@@ -19,7 +14,7 @@ HOST='https://weiban.mycourse.cn/#/'
 # login
 driver.get(HOST)
 driver.implicitly_wait(5)
-WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(locator))
+WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_NAME, 'task-block')))
 driver.implicitly_wait(5)
 
 # in menu
@@ -32,6 +27,9 @@ folderNum = len(driver.find_elements_by_class_name('folder-item'))
 ###################
 sleep(3)
 for i in range(folderNum):
+        WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
+            (By.CLASS_NAME, 'folder-item')
+        ))
         folder = driver.find_elements_by_class_name('folder-item')[i]
         state = folder.find_elements_by_class_name('state')[0].text.split("/")
         if state[0] != state[1]:
@@ -43,6 +41,9 @@ for i in range(folderNum):
                 try:
                     print('start:第',i,'组，第',j,'个课程')
                     sleep(3)
+                    WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
+                        (By.CLASS_NAME, 'course')
+                    ))
                     course = driver.find_elements_by_class_name('course')[0]
                     course.click()
 
@@ -73,11 +74,20 @@ for i in range(folderNum):
 with open("db.json", 'r', encoding='utf8') as f:
     db = json.load(f)
 
-    sleep(3)
+    WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
+        (By.CLASS_NAME, 'mint-tab-item')
+    ))
     driver.find_elements_by_class_name('mint-tab-item')[1].click()
-    sleep(3)
-    driver.find_elements_by_class_name('exam-block')[6].click()
-    sleep(3)
+
+    WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
+        (By.CLASS_NAME, 'exam-btn-group')
+    ))
+    btn_group = driver.find_elements_by_class_name('exam-btn-group')[0].find_elements_by_class_name('exam-block')
+    btn_group[len(btn_group)-1].click()
+
+    WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
+        (By.CLASS_NAME, 'mint-msgbox-confirm')
+    ))
     driver.find_elements_by_class_name('mint-msgbox-confirm')[0].click()
 
     while(1):
