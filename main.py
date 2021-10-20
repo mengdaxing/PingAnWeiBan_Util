@@ -10,7 +10,7 @@ import json
 driver = webdriver.Chrome(executable_path="chromedriver")
 
 HOST='https://weiban.mycourse.cn/#/'
-
+HAS_UNKNOWN_QUESTION = False
 # login
 driver.get(HOST)
 driver.implicitly_wait(5)
@@ -93,25 +93,23 @@ with open("db.json", 'r', encoding='utf8') as f:
     while(1):
         try:
             sleep(1)
-            question = driver.find_elements_by_class_name('quest-stem')[0].text
-            
+            question = driver.find_element_by_class_name('quest-stem').text
+            if HAS_UNKNOWN_QUESTION:
+                WebDriverWait(driver, 600, 0.5).until_not(
+                    EC.text_to_be_present_in_element(
+                        (By.CLASS_NAME, 'quest-indicator'),
+                        question
+                    )
+                )
+                question = driver.find_element_by_class_name('quest-stem').text
+                HAS_UNKNOWN_QUESTION=False
             theQ = None
             for q in db['questions']:
                 if question.find(q['title']) > -1:
                     theQ = q
             if theQ is None:
-                driver.execute_script(
-                    '''for(i of document.getElementsByClassName("quest-option-item")){
-                        i.innerHTML += "<span style="color:red">（题库木有这题，请人工回答）</span>"
-                    }'''
-                )
-                WebDriverWait(driver, 600, 0.5).until_not(
-                    EC.text_to_be_present_in_element(
-                        driver.find_elements_by_class_name('quest-stem')[0],
-                        question
-                    )
-                )
-            
+                HAS_UNKNOWN_QUESTION = True
+                continue
             for i in range(len(theQ['optionList'])):
                 if theQ['optionList'][i]['isCorrect'] == 1:
                     driver.find_elements_by_class_name('quest-option-item')[i].click()
