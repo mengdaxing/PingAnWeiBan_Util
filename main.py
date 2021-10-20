@@ -97,7 +97,7 @@ with open("db.json", 'r', encoding='utf8') as f:
             if HAS_UNKNOWN_QUESTION:
                 WebDriverWait(driver, 600, 0.5).until_not(
                     EC.text_to_be_present_in_element(
-                        (By.CLASS_NAME, 'quest-indicator'),
+                        (By.CLASS_NAME, 'quest-stem'),
                         question
                     )
                 )
