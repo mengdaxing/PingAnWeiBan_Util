@@ -99,12 +99,18 @@ with open("db.json", 'r', encoding='utf8') as f:
             for q in db['questions']:
                 if question.find(q['title']) > -1:
                     theQ = q
-            if theQ == None:
-                print('题库没有这题，您只能自己动手了。自动化到此结束。')
+            if theQ is None:
                 driver.execute_script(
-                    'alert("题库没有这题，您只能自己动手了。自动化到此结束。");'
+                    '''for(i of document.getElementsByClassName("quest-option-item")){
+                        i.innerHTML += "<span style="color:red">（题库木有这题，请人工回答）</span>"
+                    }'''
                 )
-                break
+                WebDriverWait(driver, 600, 0.5).until_not(
+                    EC.text_to_be_present_in_element(
+                        driver.find_elements_by_class_name('quest-stem')[0],
+                        question
+                    )
+                )
             
             for i in range(len(theQ['optionList'])):
                 if theQ['optionList'][i]['isCorrect'] == 1:
