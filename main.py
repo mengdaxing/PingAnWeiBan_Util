@@ -6,6 +6,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import json
+import re
 
 driver = webdriver.Chrome(executable_path="chromedriver")
 
@@ -103,10 +104,8 @@ with open("db.json", 'r', encoding='utf8') as f:
                 )
                 question = driver.find_element_by_class_name('quest-stem').text
                 HAS_UNKNOWN_QUESTION=False
-            theQ = None
-            for q in db['questions']:
-                if question.find(q['title']) > -1:
-                    theQ = q
+            question = re.sub('\d+\.', '', question, 1)
+            theQ = db['questions'].get(question)
             if theQ is None:
                 HAS_UNKNOWN_QUESTION = True
                 continue
