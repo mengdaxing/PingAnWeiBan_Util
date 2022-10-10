@@ -15,8 +15,10 @@ HAS_UNKNOWN_QUESTION = False
 # login
 driver.get(HOST)
 driver.implicitly_wait(5)
-WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_NAME, 'task-block-new')))
-driver.implicitly_wait(5)
+WebDriverWait(driver, 600, 0.5).until(EC.visibility_of_element_located((By.CLASS_NAME, 'task-block-new')))
+WebDriverWait(driver, 600, 0.5).until_not(EC.visibility_of_element_located((By.CLASS_NAME, 'enforcePop')))
+WebDriverWait(driver, 600, 0.5).until(EC.visibility_of_element_located((By.CLASS_NAME, 'task-block-new')))
+driver.implicitly_wait(3)
 
 # in menu
 driver.find_element(by=By.CLASS_NAME, value='task-block-new').click()
