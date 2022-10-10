@@ -19,7 +19,7 @@ WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_N
 driver.implicitly_wait(5)
 
 # in menu
-driver.find_elements(by=By.CLASS_NAME, value='task-block-new').click()
+driver.find_element(by=By.CLASS_NAME, value='task-block-new').click()
 driver.implicitly_wait(5)
 
 folderNum = len(driver.find_elements(by=By.CLASS_NAME, value='folder-item'))
@@ -36,7 +36,7 @@ for i in range(folderNum):
         if state[0] != state[1]:
             sleep(3)
             driver.implicitly_wait(3)
-            folder.find_elements_by_link_text("去学习>")[0].click()
+            folder.find_elements(by=By.LINK_TEXT,value="去学习>")[0].click()
             courseNum = len(driver.find_elements(by=By.CLASS_NAME, value='course'))
             for j in range(courseNum):
                 try:
