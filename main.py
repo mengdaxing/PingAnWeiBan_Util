@@ -19,10 +19,10 @@ WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_N
 driver.implicitly_wait(5)
 
 # in menu
-driver.find_element_by_class_name('task-block-new').click()
+driver.find_elements(by=By.CLASS_NAME, value='task-block-new').click()
 driver.implicitly_wait(5)
 
-folderNum = len(driver.find_elements_by_class_name('folder-item'))
+folderNum = len(driver.find_elements(by=By.CLASS_NAME, value='folder-item'))
 ###################
 # part1 答题
 ###################
@@ -31,13 +31,13 @@ for i in range(folderNum):
         WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
             (By.CLASS_NAME, 'folder-item')
         ))
-        folder = driver.find_elements_by_class_name('folder-item')[i]
-        state = folder.find_elements_by_class_name('state')[0].text.split("/")
+        folder = driver.find_elements(by=By.CLASS_NAME, value='folder-item')[i]
+        state = folder.find_elements(by=By.CLASS_NAME, value='state')[0].text.split("/")
         if state[0] != state[1]:
             sleep(3)
             driver.implicitly_wait(3)
             folder.find_elements_by_link_text("去学习>")[0].click()
-            courseNum = len(driver.find_elements_by_class_name('course'))
+            courseNum = len(driver.find_elements(by=By.CLASS_NAME, value='course'))
             for j in range(courseNum):
                 try:
                     print('start:第',i,'组，第',j,'个课程')
@@ -45,13 +45,13 @@ for i in range(folderNum):
                     WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
                         (By.CLASS_NAME, 'course')
                     ))
-                    course = driver.find_elements_by_class_name('course')[0]
+                    course = driver.find_elements(by=By.CLASS_NAME, value='course')[0]
                     course.click()
 
                     WebDriverWait(driver, 60, 0.5).until(
                         EC.presence_of_element_located((By.CLASS_NAME, 'page-iframe')))
 
-                    myframe = driver.find_elements_by_class_name('page-iframe')[0]
+                    myframe = driver.find_elements(by=By.CLASS_NAME, value='page-iframe')[0]
                     driver.switch_to.frame(myframe)
                     sleep(10)
                     res = driver.execute_script(
@@ -78,23 +78,23 @@ with open("db.json", 'r', encoding='utf8') as f:
     WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
         (By.CLASS_NAME, 'mint-tab-item')
     ))
-    driver.find_elements_by_class_name('mint-tab-item')[1].click()
+    driver.find_elements(by=By.CLASS_NAME, value='mint-tab-item')[1].click()
 
     WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
         (By.CLASS_NAME, 'exam-btn-group')
     ))
-    btn_group = driver.find_elements_by_class_name('exam-btn-group')[0].find_elements_by_class_name('exam-block')
+    btn_group = driver.find_elements(by=By.CLASS_NAME, value='exam-btn-group')[0].find_elements(by=By.CLASS_NAME, value='exam-block')
     btn_group[len(btn_group)-1].click()
 
     WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
         (By.CLASS_NAME, 'popup-btn')
     ))
-    driver.find_elements_by_class_name('popup-btn')[1].click()
+    driver.find_elements(by=By.CLASS_NAME, value='popup-btn')[1].click()
 
     while(1):
         try:
             sleep(1)
-            question = driver.find_element_by_class_name('quest-stem').text
+            question = driver.find_element(by=By.CLASS_NAME, value='quest-stem').text
             if HAS_UNKNOWN_QUESTION:
                 WebDriverWait(driver, 600, 0.5).until_not(
                     EC.text_to_be_present_in_element(
@@ -102,7 +102,7 @@ with open("db.json", 'r', encoding='utf8') as f:
                         question
                     )
                 )
-                question = driver.find_element_by_class_name('quest-stem').text
+                question = driver.find_element(by=By.CLASS_NAME, value='quest-stem').text
                 HAS_UNKNOWN_QUESTION=False
             question = re.sub('\d+\.', '', question, 1)
             theQ = db['questions'].get(question)
@@ -111,18 +111,18 @@ with open("db.json", 'r', encoding='utf8') as f:
                 continue
             for i in range(len(theQ['optionList'])):
                 if theQ['optionList'][i]['isCorrect'] == 1:
-                    driver.find_elements_by_class_name('quest-option-item')[i].click()
+                    driver.find_elements(by=By.CLASS_NAME, value='quest-option-item')[i].click()
 
             # 下一题
             sleep(1)
-            driver.find_elements_by_class_name('bottom-ctrls')[0].find_elements_by_class_name('mint-button--default')[1].click()
+            driver.find_elements(by=By.CLASS_NAME, value='bottom-ctrls')[0].find_elements(by=By.CLASS_NAME, value='mint-button--default')[1].click()
 
             # 判断是否可以提交
             sleep(1)
-            confirm_window_style = driver.find_elements_by_class_name('confirm-sheet')[0].get_property('style')
+            confirm_window_style = driver.find_elements(by=By.CLASS_NAME, value='confirm-sheet')[0].get_property('style')
             if (confirm_window_style.count('display') == 0):
                 sleep(3)
-                driver.find_elements_by_class_name('confirm-sheet')[0].find_elements_by_class_name('mint-button--danger')[0].click()
+                driver.find_elements(by=By.CLASS_NAME, value='confirm-sheet')[0].find_elements(by=By.CLASS_NAME, value='mint-button--danger')[0].click()
                 break
         except Exception as e:
             print(e)
