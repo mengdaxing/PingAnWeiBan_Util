@@ -14,11 +14,11 @@ HAS_UNKNOWN_QUESTION = False
 # login
 driver.get(HOST)
 driver.implicitly_wait(5)
-WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_NAME, 'task-block')))
+WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located((By.CLASS_NAME, 'task-block-new')))
 driver.implicitly_wait(5)
 
 # in menu
-driver.find_element_by_class_name('task-block').click()
+driver.find_element_by_class_name('task-block-new').click()
 driver.implicitly_wait(5)
 
 folderNum = len(driver.find_elements_by_class_name('folder-item'))
@@ -113,11 +113,11 @@ with open("db.json", 'r', encoding='utf8') as f:
             for i in range(len(theQ['optionList'])):
                 if theQ['optionList'][i]['isCorrect'] == 1:
                     driver.find_elements_by_class_name('quest-option-item')[i].click()
-            
+
             # 下一题
             sleep(1)
             driver.find_elements_by_class_name('bottom-ctrls')[0].find_elements_by_class_name('mint-button--default')[1].click()
-            
+
             # 判断是否可以提交
             sleep(1)
             confirm_window_style = driver.find_elements_by_class_name('confirm-sheet')[0].get_property('style')
