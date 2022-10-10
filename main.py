@@ -86,9 +86,9 @@ with open("db.json", 'r', encoding='utf8') as f:
     btn_group[len(btn_group)-1].click()
 
     WebDriverWait(driver, 600, 0.5).until(EC.presence_of_element_located(
-        (By.CLASS_NAME, 'mint-msgbox-confirm')
+        (By.CLASS_NAME, 'popup-btn')
     ))
-    driver.find_elements_by_class_name('mint-msgbox-confirm')[0].click()
+    driver.find_elements_by_class_name('popup-btn')[1].click()
 
     while(1):
         try:
